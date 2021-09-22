@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marianna/Downloads/OOP/OOP-proj-2/Date.h
+
+/home/marianna/Downloads/OOP/OOP-proj-2/PostList.h
+
+/home/marianna/Downloads/OOP/OOP-proj-2/Thread.h
+string
+-
+Date.h
+/home/marianna/Downloads/OOP/OOP-proj-2/Date.h
+PostList.h
+/home/marianna/Downloads/OOP/OOP-proj-2/PostList.h
+
+/home/marianna/Downloads/OOP/OOP-proj-2/ThreadList.cpp
+iostream
+-
+ThreadList.h
+/home/marianna/Downloads/OOP/OOP-proj-2/ThreadList.h
+
+/home/marianna/Downloads/OOP/OOP-proj-2/ThreadList.h
+string
+-
+Thread.h
+/home/marianna/Downloads/OOP/OOP-proj-2/Thread.h
+
