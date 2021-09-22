@@ -6,6 +6,7 @@ various c++ projects created for university assignments
 # Project 1
 
 compilation instructions: $ make
+
 execution instructions: $ ./school <int>cClass <int>cYard <int>cStair <int>cCorr
 
 -----------------
@@ -17,6 +18,7 @@ Program simulates the operation of a school. Students and teachers are randomly 
 # Project 2
 
 compilation instructions: $ make
+  
 execution instructions: $ ./school <int>cClass <int>Lj <int>Ls <int>Lt <int>N
 
 -----------------
@@ -28,6 +30,7 @@ Changes in project 1 to add inheritance to the classes.
 # Project 3
 
 compilation instructions: $ make
+  
 execution instructions: $ ./airplane
 
 ----------------
@@ -40,6 +43,7 @@ The program simulates an airplane. All its spaces are created and its employees.
 # Project 4
   
 compilation instructions: $ make
+  
 execution instructions: $ ./forum
 
 ----------------
