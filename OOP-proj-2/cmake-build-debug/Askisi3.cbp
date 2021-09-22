@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Askisi3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Askisi3">
+				<Option output="/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Askisi3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Askisi3"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Askisi3/fast">
+				<Option output="/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Askisi3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Askisi3/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/izambo2021/Askisi3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Class.cpp">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Class.h">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Corridor.cpp">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Corridor.h">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Floor.cpp">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Floor.h">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/JuniorClass.h">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/JuniorStudent.h">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Person.cpp">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Person.h">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Room.cpp">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Room.h">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/SchoolBuilding.cpp">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/SchoolBuilding.h">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/SeniorClass.h">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/SeniorStudent.h">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Stair.cpp">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Stair.h">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Student.cpp">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Student.h">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Teacher.cpp">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Teacher.h">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/Yard.h">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/main.cpp">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/utilities.cpp">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/utilities.h">
+			<Option target="Askisi3"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/izambo2021/Askisi3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
